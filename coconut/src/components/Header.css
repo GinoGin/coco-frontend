@@ -1,0 +1,12 @@
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: lightgreen;
+    height: 80px; /* Adjust the height as needed */
+    margin-bottom: 80px;
+  }
+  
+  .header-content {
+    text-align: center;
+  }
